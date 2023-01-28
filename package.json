@@ -1,0 +1,30 @@
+{
+  "name": "cosmoorganization",
+  "version": "1.0.0",
+  "description": "Cosmo Organization Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cosmo-organization/cosmoorganization.git"
+  },
+  "keywords": [
+    "cosmoorganization",
+    "software",
+    "softwaredevelopment",
+    "softwaredevelopers"
+  ],
+  "author": "Sonu Aryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cosmo-organization/cosmoorganization/issues"
+  },
+  "homepage": "https://github.com/cosmo-organization/cosmoorganization#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
